@@ -200,7 +200,7 @@ header {
   grid-area: showcase;
   min-height: 600px;
   background: linear-gradient(to right bottom, var(--primary), var(--secondary)),
-    url("showcase.jpg");
+    url("./img/showcase.jpg");
   background-size: cover;
   background-position: center;
   padding: 3rem;
@@ -328,7 +328,7 @@ h1 {
   align-items: center;
   text-align: center;
   background: linear-gradient(to right bottom, var(--primary), var(--secondary)),
-    url("showcase.jpg");
+    url("./img/showcase.jpg");
   background-size: cover;
   background-position: center;
 
